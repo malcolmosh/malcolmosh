@@ -1,10 +1,6 @@
 ---
-title: Recent projects
-author: Olivier Simard-Hanley
-date: November 2021
 output: 
-  prettydoc::html_pretty:
-    theme : architect
+  html_document:
     keep_md: true
 editor_options: 
   chunk_output_type: console
