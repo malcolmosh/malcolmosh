@@ -1,14 +1,14 @@
 
-🎺💾
+🎺 💾 🎺 💾 🎺 💾 🎺 💾
 
 Bonjour! I’m a graduate student completing his master’s of science
 degree in business intelligence and data science at HEC Montréal. I’ve
 helped bring multiple projects to life in the Québec creative and
 cultural world for the past few years. Up to August 2021, I was program
 manager at Zu Montreal, a creative hub for entertainment and technology.
-Music was my first love - I have a bachelor’s in music from the
-University of Montreal (2014), and a master’s in arts management from
-HEC Montreal (2016).
+Music was my first (academic) love - I have a bachelor’s in music from
+the University of Montreal (2014), and a master’s in arts management
+from HEC Montreal (2016).
 
 Salut ! Je complète actuellement ma maîtrise en intelligence
 d’affaires/science des données à HEC Montréal. Je compte traduire ce
@@ -45,8 +45,10 @@ There are a few parameters to set, including :
         chosen (at random, closest neighbour, weighed neighbour)
 
 This group project was assembled for my class on algorithms for
-optimization and big data. Contributors: - Mahnaz Gol - Emanuel
-Senay-Lussier
+optimization and big data. Contributors:
+
+-   Mahnaz Gol
+-   Emanuel Senay-Lussier
 
 ------------------------------------------------------------------------
 
