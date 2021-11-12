@@ -1,9 +1,10 @@
 ---
-output: 
-  html_document:
-    keep_md: true
-editor_options: 
-  chunk_output_type: console
+output:
+  github_document: default # put github_document *before* html_document
+  #html_document: default
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding,
+  output_format = "all") })
 ---
 
 ```{r setup, include=FALSE}
@@ -51,9 +52,9 @@ This group project was assembled for my class on algorithms for optimization and
 
 This is a proof of concept built in R and Shiny. It allows to choose a hiking trail in Quebec based on certain conditions, including driving distance. 
 
-The biggest selling point of this tool is that it calculates your driving distance to all trails and lists the closest ones that match your filters. The Google autocomplete and geocoding APIs are used to standardize the address field and then transform it into a set of coordinates. The googleway package is then used to inferface with the goGgle maMs API, mostly to calculate driving distance. 
+The biggest selling point of this tool is that it calculates your driving distance to all trails and lists the closest ones that match your filters. The Google autocomplete and geocoding APIs are used to standardize the address field and then transform it into a set of coordinates. The googleway package is then used to inferface with the Google Maps API, mostly to calculate driving distance. 
 
-Authentification is done through a js.on file and an API key integrated in the main R file.
+Authentification is done through a .json file and an API key integrated in the main R file.
 
 The code includes a few secret API keys and so is not immediately shareable, but I'm happy to share it on request.
 
