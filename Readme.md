@@ -16,33 +16,25 @@ petit texte bientôt.
 
 ## Recent projects:
 
-### Social distancing calculator (WIP - 2021)
+### Social distancing calculator (2021)
+
+<mark>**[Repo link here](https://github.com/malcolmosh/OptimisateurSalle_Roomoptimizer)**</mark>
 
 **Language & Packages: Python (mostly NumPy, Pygame)**
 
 This is a heuristic algorithm that optimizes the capacity of a
 fixed-seat room with respect to social distancing. It ingests a set of
 2D chair coordinates and numbers, and outputs a list of chairs to be
-occupied. Choosing the optimal number of chairs is an optimization
-problem. To focus on speed and simplicity, our heuristic strategy is
-that we loop a great number of times over a given algorithm, and select
-the run that produces the most chairs. This means we are pretty sure to
-approximate the best possible result, especially in smaller rooms. The
-algorithm works through a complete GUI with Pygame. NumPy arrays are
-also used for speed.
+occupied. A GUI helps users import files, set their parameters and then observe the outcome. Data can then be exported from the app. Choosing the optimal number of chairs is an optimization problem. To focus on speed and simplicity, our heuristic strategy is that we loop a great number of times over a given algorithm and improve the initial solution only when the capacity increases. This means we are pretty sure to approximate the best possible result, especially in smaller rooms. 
 
 There are a few parameters to set, including :
 
 -   The social distance to set between each chair (in metres)
--   The number of iterations the algorithm should try
+-   Whether you want to divide the room into independent sub-groups
+-   The number of iterations without improvements the algorithm should run for
 -   The maximum time the algorithm should run for (in minutes)
--   The type of algorithm to use
-    -   The first algorithm divides a room into rectangular shapes, and
-        then fills seats sequentially by starting from a corner
-    -   The second algorithm occupies a random seat first, then excludes
-        its incompatible neighbours, and then starts again. Some finer
-        parameters can be set to specify how the next chair should be
-        chosen (at random, closest neighbour, weighed neighbour)
+-   The research strategy
+    -   The first chair is usually chosen randomly. Its neighbours that become inelegible are removed from play, and different research strategies are implemented to occupy the next chair. 
 
 This group project was assembled for my class on algorithms for
 optimization and big data. Contributors:
