@@ -1,7 +1,7 @@
 
 🎺 💾 🎺 💾 🎺 💾 🎺 💾
 
-Bonjour! I’m a graduate student from HEC Montréal in business intelligence & data science. I’ve
+Bonjour! I’m a graduate student in business intelligence & data science at HEC Montréal. I’ve
 helped bring multiple projects to life in the Québec creative and
 cultural world over the past few years. Up to August 2021, I was program
 manager at Zu Montreal, an incubator for entertainment and technology startups.
