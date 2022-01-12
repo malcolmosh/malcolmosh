@@ -1,11 +1,10 @@
 
 🎺 💾 🎺 💾 🎺 💾 🎺 💾
 
-Bonjour! I’m a graduate student completing his master’s of science 
-in business intelligence and data science at HEC Montréal. I’ve
+Bonjour! I’m a graduate student from HEC Montréal in business intelligence & data science. I’ve
 helped bring multiple projects to life in the Québec creative and
-cultural world for the past few years. Up to August 2021, I was program
-manager at Zu Montreal, a creative hub for entertainment and technology.
+cultural world over the past few years. Up to August 2021, I was program
+manager at Zu Montreal, an incubator for entertainment and technology startups.
 Music was my first (academic) love - I have a bachelor’s in music from
 the University of Montreal (2014), and a master’s in arts management
 from HEC Montreal (2016).
