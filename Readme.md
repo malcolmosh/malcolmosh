@@ -3,11 +3,7 @@
 
 Bonjour! I’m a graduate student in business intelligence & data science at HEC Montréal. I’ve
 helped bring multiple projects to life in the Québec creative and
-cultural world over the past few years. Up to August 2021, I was program
-manager at Zu Montreal, an incubator for entertainment and technology startups.
-Music was my first (academic) love - I have a bachelor’s in music from
-the University of Montreal (2014), and a master’s in arts management
-from HEC Montreal (2016).
+cultural world over the past few years. 
 
 Salut ! Je complète actuellement ma maîtrise en intelligence
 d’affaires/science des données à HEC Montréal. Ce texte sera traduit bientôt. 
