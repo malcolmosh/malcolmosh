@@ -92,12 +92,7 @@ through the Goodreads API, which bizarrely enough still works although
 it was announced in December 2020 it would be discontinued. The cleaned
 and agregated dataset will be released for public use soon.
 
-A few strategies were applied to build efficient recommendations :
-
--   A baseline linear regression
--   Content-based filtering with NLP, using each book’s description
-    (about 800 characters)
--   Collaborative filtering
+A few strategies were applied to build efficient recommendations, including linear regression, content and user-based filtering strategies, and neural networks.
 
 Collaborators :
 
