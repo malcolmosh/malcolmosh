@@ -6,7 +6,7 @@ helped bring multiple projects to life in the Québec creative and
 cultural world over the past few years. 
 
 Salut ! Je complète actuellement ma maîtrise en intelligence
-d’affaires/science des données à HEC Montréal. Ce texte sera traduit bientôt. 
+d’affaires/science des données à HEC Montréal. Voici un aperçu de mes projets récents.
 
 ## Recent projects:
 
