@@ -1,12 +1,11 @@
 
 🎺 💾 🎺 💾 🎺 💾 🎺 💾
 
-Bonjour! I’m a graduate student in business intelligence & data science at HEC Montréal. I’ve
-helped bring multiple projects to life in the Québec creative and
-cultural world over the past few years. 
-
 Salut ! Je complète actuellement ma maîtrise en intelligence
 d’affaires/science des données à HEC Montréal. Voici un aperçu de mes projets récents.
+
+Bonjour ! I’m a graduate student in business intelligence & data science at HEC Montréal. 
+
 
 ## Recent projects:
 
