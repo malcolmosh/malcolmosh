@@ -7,7 +7,7 @@ Bonjour ! I’m a data scientist based in Montreal. Here are a few recent projec
 
 ## Recent projects:
 
-### DispatchPi : a pair of e-paper frames to easily exchange pictures via the Gmail API (2022)
+### DispatchPi : a pair of e-paper frames to easily exchange pictures via the Gmail API (2022-3)
 
 <mark>**[Code is here](https://github.com/malcolmosh/dispatchPi) and [Reddit post here](https://www.reddit.com/r/raspberry_pi/comments/skmb77/dispatchpi_a_pair_of_epaper_picture_frames_to/)**</mark>
 
